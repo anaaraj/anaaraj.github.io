@@ -1,1 +1,81 @@
-# anaaraj.github.io
+<h1 align="center"> Ana Abou-Arraj Awad </h1>
+
+<p align="center">
+
+<a href="https://yourwebsite.com">Website</a> •
+<a href="https://www.linkedin.com/in/anaawad/">LinkedIn</a> •
+<a href="https://twitter.com/yourhandle">Twitter</a>
+
+</p>
+
+---
+
+## About Me
+
+I'm passionate about data, business strategy, and technology. Currently pursuing a Master's in Business Analytics & Data Science at IE University in Madrid while working full-time, I specialize in transforming complex data into actionable business insights. With strong skills in SQL and Excel (including macros), and growing expertise in Python and Power BI, I love building analytical models and dashboards that solve real-world problems.
+
+---
+
+## Skills & Tools
+
+- 📊 SQL (Advanced; with honors distinction)
+- 📈 Excel (with advanced macros)
+- 🐍 Python (pandas, matplotlib, time series, regression)
+- 📊 Power BI (learning in progress)
+- 📁 Data Analysis & Forecasting
+- 💬 Bridging technical & business communication
+
+---
+
+## Achievements
+
+- 🎓 Pursuing MSc in Business Analytics & Data Science @ IE University  
+- 💼 Successfully balancing full-time work (9–7) with part-time graduate study  
+- 📊 Built dashboards and forecasting models for real business cases
+
+---
+
+## Certifications
+
+- **SQL and Relational Databases 101** – Cognitive Class (Jan 2025)  
+- **Getting Started with Data Analytics on AWS** – edX (Sep 2022)  
+- **Python Essentials** – edX (Feb 2022)
+
+---
+
+## Projects
+
+- **IBEX Time Series Forecasting**: Forecasted the IBEX index using regression + ARIMA models based on macroeconomic inputs.  
+  🔗 *Link coming soon*
+
+- **HR Analytics Salary Prediction**: Used Python (pandas/statsmodels) to model drivers of employee salary based on internal HR dataset.  
+  🔗 *Link coming soon*
+
+- **Power BI KPI Dashboard**: Built a dynamic dashboard comparing current month KPIs vs budget, forecast, and previous year.  
+  🔗 *In progress*
+
+---
+
+## Let's Connect
+
+I'm always open to collaboration, analytics projects, or career opportunities in data, analytics, or strategy.
+
+- [Website](https://yourwebsite.com)  
+- [LinkedIn](https://www.linkedin.com/in/becharakaddoum/)  
+- [Twitter](https://twitter.com/yourhandle)
+
+---
+
+## GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=bkaddoum&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bkaddoum&layout=compact)
+
+---
+
+## Visitors
+
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=bkaddoum.bkaddoum)
+
+---
