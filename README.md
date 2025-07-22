@@ -55,27 +55,3 @@ I'm passionate about data, business strategy, and technology. Currently pursuing
   🔗 *In progress*
 
 ---
-
-## Let's Connect
-
-I'm always open to collaboration, analytics projects, or career opportunities in data, analytics, or strategy.
-
-- [Website](https://yourwebsite.com)  
-- [LinkedIn](https://www.linkedin.com/in/becharakaddoum/)  
-- [Twitter](https://twitter.com/yourhandle)
-
----
-
-## GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=bkaddoum&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bkaddoum&layout=compact)
-
----
-
-## Visitors
-
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=bkaddoum.bkaddoum)
-
----
